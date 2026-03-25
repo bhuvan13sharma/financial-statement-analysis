@@ -20,6 +20,10 @@ To evaluate profitability and financial position using basic accounting concepts
 
 * Microsoft Excel
 
+  ## 📸 Dashboard Preview
+
+![Dashboard](financial-statement-analysis.PNG)
+
 ## 📊 Output
 
 * Profitability analysis
